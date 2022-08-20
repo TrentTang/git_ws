@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is main branch
+=======
+This is dev branch
+>>>>>>> dev
 This is for testing git 
