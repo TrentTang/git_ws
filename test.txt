@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is from git_ws2
+=======
+how to test
+>>>>>>> 15e1a282cead3a4b7256b2ba3aa9f571667e4c9d
 <<<<<<< HEAD
 This is main branch
 =======
